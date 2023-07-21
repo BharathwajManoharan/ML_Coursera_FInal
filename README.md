@@ -10,7 +10,7 @@ Are you ready to unlock the power of machine learning and take your skills to ne
 
 - [Supervised ML - Regression and Classification](./Course01)
 - [Advanced Learning Algorithms](./Course02)
-- [Unsupervised ML: Recommenders, Reinforcement Learning](./Course03)
+- [Unsupervised ML - Recommenders, Reinforcement Learning](./Course03)
 
 Each course folder is a treasure trove of weekly objectives and materials specifically curated for that course. Delve into the folders and embrace the knowledge that awaits you.
 
