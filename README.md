@@ -41,5 +41,3 @@ If you encounter any issues or have questions related to the course materials or
 ### [My Specialization Certificate](https://coursera.org/verify/4HSUZBXFH8G8)
 
 Join us on this thrilling Machine Learning journey!
-
--peacefulwarrior
