@@ -38,7 +38,7 @@ In conclusion, this specialization is a true gem that I wholeheartedly recommend
 
 If you encounter any issues or have questions related to the course materials or the repository itself, our team is here to assist you every step of the way.
 
-### [Specialization Certificate](https://coursera.org/verify/4HSUZBXFH8G8)
+### [My Specialization Certificate](https://coursera.org/verify/4HSUZBXFH8G8)
 
 Join us on this thrilling Machine Learning journey!
 
