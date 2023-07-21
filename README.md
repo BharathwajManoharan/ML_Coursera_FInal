@@ -8,7 +8,7 @@ Are you ready to unlock the power of machine learning and take your skills to ne
 
 ## Courses
 
-- [Supervised ML - Regression and Classification](./Supervised-ML-Regression-and-Classification)
+- [Supervised ML - Regression and Classification](./Supervised-ML---Regression-and-Classification)
 - [Advanced Learning Algorithms](./Advanced_Learning_Algorithms)
 - [Unsupervised ML: Recommenders, Reinforcement Learning](./Unsupervised-ML-Recommenders-Reinforcement-Learning)
 
@@ -25,14 +25,10 @@ Embark on a fascinating journey of discovery with the Machine Learning Specializ
     - Witness the lunar rover's courageous quest to land safely on the challenging surface.
     - After persistent training, observe the triumphant landing between the flags.
 
-https://user-images.githubusercontent.com/77543865/182395635-703ae199-ba79-4940-86eb-23dd90093ab3.mp4
-
 * **Create a Movie Recommender System**
 
     - Curate a movie database categorized by genre.
     - Train content-based and collaborative filtering algorithms to build a personalized movie recommendation system.
-
-![movie_recommendation](https://user-images.githubusercontent.com/77543865/182398093-c7387754-34a9-4044-b842-0085060c3525.png)
 
 * 🌟 **And So Much More!** 🌟
 
