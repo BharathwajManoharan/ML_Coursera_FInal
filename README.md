@@ -1,4 +1,4 @@
-Supervised ML - Regression and Classification (./Supervised ML - Regression and Classification)
+[Supervised ML - Regression and Classification](./Supervised ML - Regression and Classification)
 
 Week 1 Objectives:
 
