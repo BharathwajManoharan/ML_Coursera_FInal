@@ -1,6 +1,6 @@
 # Machine Learning Specialization Repository
 
-Solutions and Notes for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction/?utm_medium=coursera&utm_source=home-page&utm_campaign=mlslaunch2022IN) by Andrew NG on Coursera 
+This repository contains solutions and comprehensive notes for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction/?utm_medium=coursera&utm_source=home-page&utm_campaign=mlslaunch2022IN) offered by Andrew Ng on Coursera.
 
 ## Welcome to the Machine Learning Specialization Repository!
 
